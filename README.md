@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Kush 👋</h1>
 
----
 ### 👦 About me
 - 🎓 I'm currently studing Computer Science at The University of Waterloo
 - 😃 I'm really passionate about software, and am always looking to expand my knowledge
