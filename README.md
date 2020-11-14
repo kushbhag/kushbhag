@@ -36,7 +36,7 @@
 </div>
 
 ---
-### Feel free to connect with me!
+### 👯 Feel free to connect with me!
 <div class="row>
   <div class="col">
     <img href="http://www.kush.bhagatworld.com" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
