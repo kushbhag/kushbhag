@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 
+<h1 align="center">Hi there, I'm Kush 👋</h1>
 <!--
 **kushbhag/kushbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
