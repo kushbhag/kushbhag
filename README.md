@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Kush 👋</h1>
 
 ### 👦 About me
-- 🎓 I'm currently studing Computer Science at The University of Waterloo
+- 🎓 I'm currently studying Computer Science at The University of Waterloo
 - 😃 I'm really passionate about software and am always looking to expand my knowledge
-- 📘 I've recently got into 🌐 web developemnt with Angular, Django, and Node.js
+- 📘 I've recently got into web development 🌐 with Angular, Django, and Node.js
 - 🔨 I'm currently working on Road Mixify, which is a web app that allows Spotify users to create the ideal playlist for their upcoming road trip
 - 💬 Ask me about anything, my program 📘, NBA 🏀, or video games 🎮
 
