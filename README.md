@@ -4,7 +4,7 @@
 - 🎓 I'm currently studying Computer Science at The University of Waterloo
 - 😃 I'm really passionate about software and am always looking to expand my knowledge
 - 📘 I've recently got into web development 🌐 with Angular, Django, and Node.js
-- 🔨 I'm currently working on Road Mixify, which is a web app that allows Spotify users to create the ideal playlist for their upcoming road trip
+- 🔨 My latest project was Road Mixify, a web app that allows Spotify users to create the ideal playlist for their upcoming road trip. Give it a try <a href="https://kushbhag.github.io/RoadMixify/home">here</a>
 - 💬 Ask me about anything, my program 📘, NBA 🏀, or video games 🎮
 
 ---
